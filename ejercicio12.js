@@ -5,7 +5,9 @@
 // 1 dólar = 1305.75 pesos
 // 1 yen = 8.69 pesos
 // 1 euro = 968.52 pesos
+
 const prompt = require('prompt-sync')({ siging: true})
+
 const monedas = {
     libra: 905.75,
     dolar: 1305.75,
